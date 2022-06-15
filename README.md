@@ -1,4 +1,3 @@
-![header](https://DongChaeBaek.vercel.app/api?type=wave&color=auto&height=300&section=header&text=dongchae%20Baek&fontSize=90)
 
 ### Hi there 👋
 
