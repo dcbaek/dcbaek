@@ -5,16 +5,11 @@
 email
 ehdco8988@gmail.com
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Intellj-000000?style=for-the-badge&logo=intellijidea&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-3DDC84?style=flat-square&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/><img src="https://img.shields.io/badge/Intellj-000000?style=for-the-badge&logo=intellijidea&logoColor=black">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcbaek&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcbaek&show_icons=true&theme=merko)
-### Hi there 👋
 
 <!--
 **dcbaek/dcbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
