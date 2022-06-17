@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=dongchae%10Baek&fontSize=90$animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=dongchae%10Baek&fontSize=90&animation=scaleIn)
 ### Hi there 👋
 
 <!--
