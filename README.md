@@ -12,7 +12,7 @@ Skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcbaek&show_icons=true&theme=merko) &nbsp&nbsp&nbsp[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcbaek&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcbaek&show_icons=true&theme=merko) &nbsp&nbsp[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcbaek&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dcbaek/dcbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
